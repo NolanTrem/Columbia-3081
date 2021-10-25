@@ -1,3 +1,3 @@
 # Circuit Analysis Laboratory Lab Reports
 
-A collection of lab reports and example work from EE3081 Circuit Analysis Laboratory.
+This repository will serve as a collection of lab reports, example work, and further exploration based on labs from from a circuit analysis laboratory course.
